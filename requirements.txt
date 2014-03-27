@@ -3,3 +3,4 @@ jinja2
 matplotlib
 pyzmq
 rpy2
+scipy
