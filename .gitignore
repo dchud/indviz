@@ -63,3 +63,5 @@ docs/_build/
 
 # R data files from past sessions
 .Rdata
+
+.ipynb_checkpoints
